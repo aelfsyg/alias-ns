@@ -22,7 +22,7 @@
     <url>https://github.com/aelfsyg/alias-ns</url>
     <connection>scm:git:git://github.com/aelfsyg/alias-ns.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/aelfsyg/alias-ns.git</developerConnection>
-    <tag>v1</tag>
+    <tag>v1.0.0</tag>
   </scm>
   <dependencies>
     <dependency>
